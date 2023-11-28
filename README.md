@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kenrickpd&label=Visitor&color=000000&style=plastic" alt="kenrickpd" /> </p>
 
-- 🌱 I’m currently learning **Next.js and Go**
+- 🌱 I’m currently learning **Next.js/React, Laravel, and Go**
 
 - 👨‍💻 My personal website [https://www.kenrickdewanto.my.id/](https://www.kenrickdewanto.my.id/)
 
-- ⚡ Fun fact **I learn by doing, not by reading or watching.**
+- ⚡ Fun fact **My laptop battery only lasts 1 and a half hours while coding**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
