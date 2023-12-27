@@ -1,5 +1,5 @@
 <h1 align="center">Greetings 👋, I'm Kenrick</h1>
-<h3 align="center">A backend developer that are currently learning frontend!</h3>
+<h3 align="center">A software engineer that are currently focussing on backend!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kenrickpd&label=Visitor&color=000000&style=plastic" alt="kenrickpd" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 👨‍💻 My personal website [https://www.kenrickdewanto.my.id/](https://www.kenrickdewanto.my.id/)
 
-- ⚡ Fun fact **My laptop battery only lasts 1 and a half hours while coding**
+- ⚡ Fun fact **My laptop battery only lasts 1 and a half hours while code**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
